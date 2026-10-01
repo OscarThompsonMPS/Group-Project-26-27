@@ -26,3 +26,12 @@ Year 2 Cyber Security group project 26/27.
 - Face ID
 - Finger Scanner
 - Particular Testicular Detection (PTD)
+
+## SMART targets:
+- Scan RFID
+- Biometrics
+- Data Storage
+- Match Biometrics + RFID
+- LED Acceptance
+- Biometrics unlocks RFID
+- Biometrics = Face
