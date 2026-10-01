@@ -1,20 +1,28 @@
 # Group-Project-26-27
 Year 2 Cyber Security group project 26/27.
 
-this readme will contain the infomation disscussed in person such as scope.
+---
 
-RFID + Biometrics unlock
+# Biometrically Enabled RFID Card
 
-Equipment:  
-PI4 4/8GB  
-PI3 2/4GB  
-Motion sensor  
-PI camera  
-RFID reader + cards 
-  
-RFID  
-Biometrics = Face/Fingerprint  
-Data storagie 
-Match RFID + BIO  
-LED acceptance indicator  
+## Current Equipment:
+- Pi4 4GB
+- Pi3 2GB (x3)
+- Pi3 1GB 
+- Motion Sensor x6
+- Pi Camera
+- RFID Reader + 10 RFID Cards
+- Ribon connectors x80
 
+## Project Scope:
+- Scan RFID
+- Scan Biometrics
+- Store Data
+- Match Biometric to RFID 
+- Bio Unlocks RFID
+- LED Acceptance Signals (for testing)
+
+## Possible Biomtric Sources:
+- Face ID
+- Finger Scanner
+- Particular Testicular Detection (PTD)
