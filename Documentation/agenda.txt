@@ -1,0 +1,6 @@
+Note down what you want to be discussed next lesson. 
+
+-assign roles
+-choose task manager (kanban, trello, figma etc)
+-get everyone setup with github
+-fill in scott with last lesson
