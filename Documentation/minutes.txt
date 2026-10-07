@@ -8,3 +8,4 @@ Date	Time	Person	Details
 1/10/26 14:00 - oscar - made github repro and added contributors
 1/10/26 14:30 - oscar - made Documentation and minutes.txt
 5/10/26	12:00 - oscar - made and updated agenda.txt
+5/10/26 9:56 - charles - charles explanation
