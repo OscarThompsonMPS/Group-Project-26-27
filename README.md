@@ -16,7 +16,7 @@ Hardware:
 - M5Stack Mini RFID Reader/Writer Unit
 
 Software
-- Debian 7 (Linux) 
+- Debian 13 (Linux) 
 
 # Links for items used
 
@@ -26,7 +26,7 @@ Pi Camera - https://thepihut.com/collections/raspberry-pi-camera
 
 M5Stack Mini RFID Reader/Writer Unit - https://thepihut.com/products/rfid-sensor-unit
 
-Debian 7 - https://www.debian.org/releases/wheezy/
+Debian 7 - [https://www.debian.org/releases/wheezy/](https://www.debian.org/download)
 
 
 
